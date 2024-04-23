@@ -1,2 +1,3 @@
 # Gestura
-Gesture recognition model 
+Gesture recognition model for my app feature
+
