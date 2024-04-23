@@ -1,3 +1,3 @@
 # Gestura
-Gesture recognition model for my app feature
+TECHNOVATION 2024 - Gesture recognition model for my app feature
 
